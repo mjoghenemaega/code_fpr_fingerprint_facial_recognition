@@ -1,0 +1,6 @@
+face-recognition
+opencv-python
+gspread
+oauth2client
+RPLCD
+RPi.GPIO
