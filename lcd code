@@ -20,3 +20,8 @@ except KeyboardInterrupt:
 
 finally:
     lcd.clear()
+
+
+
+
+https://github.com/mheidenreich/LCDDemo/blob/main/lcd-hello.py
